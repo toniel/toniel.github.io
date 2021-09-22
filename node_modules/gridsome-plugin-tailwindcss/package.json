@@ -1,0 +1,39 @@
+{
+  "name": "gridsome-plugin-tailwindcss",
+  "version": "3.0.1",
+  "description": "Add Tailwind to a Gridsome project.",
+  "main": "gridsome.server.js",
+  "files": [
+    "gridsome.client.js",
+    "gridsome.server.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brandonpittman/gridsome-plugin-tailwindcss.git"
+  },
+  "keywords": [
+    "tailwind",
+    "gridsome",
+    "gridsome-plugin",
+    "tailwindcss",
+    "postcss",
+    "postcss-import",
+    "postcss-preset-env"
+  ],
+  "author": "Brandon Pittman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonpittman/gridsome-plugin-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/brandonpittman/gridsome-plugin-tailwindcss#readme",
+  "dependencies": {
+    "postcss": "^7.0.32",
+    "postcss-import": "^12.0.1",
+    "postcss-import-url": "^5.1.0",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": ">=1.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
