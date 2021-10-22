@@ -23,35 +23,7 @@ export default [
     component: c3
   },
   {
-    path: "/what-i-ate-for-breakfast/",
-    component: c4
-  },
-  {
-    path: "/top-5-static-site-generators-in-vue/",
-    component: c4
-  },
-  {
-    path: "/vue-vs-react-comparison/",
-    component: c4
-  },
-  {
-    path: "/mac-pro-2019-review/",
-    component: c4
-  },
-  {
-    path: "/how-to-get-better-at-coding/",
-    component: c4
-  },
-  {
-    path: "/introduction-to-gridsome/",
-    component: c4
-  },
-  {
-    path: "/freelance-vs-full-time-work/",
-    component: c4
-  },
-  {
-    path: "/design-for-developers/",
+    path: "/fibonacci-sequence-in-php/",
     component: c4
   },
   {
