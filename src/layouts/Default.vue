@@ -48,7 +48,7 @@
       </nav>
     </header>
 
-    <main class="flex flex-col flex-grow overflow-hidden pt-12">
+    <main class="flex-auto flex-col flex-grow overflow-hidden pt-12">
       <slot/>
     </main>
 
