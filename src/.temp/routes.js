@@ -23,6 +23,10 @@ export default [
     component: c3
   },
   {
+    path: "/laravel-9-crud-1/",
+    component: c4
+  },
+  {
     path: "/fibonacci-sequence-in-php/",
     component: c4
   },
